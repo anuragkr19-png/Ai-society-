@@ -30,6 +30,7 @@ inference because it applies L2 regularisation by default.
 
 | File | Description |
 | --- | --- |
+| `CSET485_Assignment1_Anurag_Kumar_S24CSEU1224.pdf` | The report (draft — Part 3 and Part 4 answers still to be written) |
 | `CSET485_Assignment1_S24CSEU1224.ipynb` | Full analysis: preprocessing, Part 1, Parts 2.1–2.4 |
 | `RESULTS_WALKTHROUGH.md` | Every result with the mechanism behind it explained |
 | `german.data` | Local copy of the UCI dataset (1000 rows, 79,793 bytes) |
